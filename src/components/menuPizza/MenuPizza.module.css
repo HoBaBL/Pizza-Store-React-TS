@@ -1,0 +1,137 @@
+.title {
+    font-size: 24px;
+    margin: 5px;
+    margin-left: 0;
+}
+
+.MenuPizza {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 40px;
+    grid-row-gap: 40px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.pizza {
+    max-width: 295px;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between; 
+    margin: 0 auto
+}
+
+.img {
+    width: 100%;
+    transition: 0.5s;
+}
+
+.img:hover {
+    transform: scale(1.05);
+    
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.price {
+    font-weight: 600;
+    font-size: 20px;
+    margin: 5px;
+    margin-left: 0;
+    font-weight: 700;
+}
+
+.button {
+    background-color: rgb(255, 240, 230);
+    color: rgb(209, 87, 0);
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.button:hover {
+    background-color: rgb(253, 207, 176);
+    
+}
+
+.text {
+    font-size: 16px;
+    color: rgb(92, 99, 112);
+}
+
+.pizzaUl {
+    list-style-type: none;
+    padding-left: 0;
+    display: flex;
+    height: 32px;
+    align-items: center;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+.pizzaLi {
+    display: flex;
+    flex: 1 1 0%;
+    height: 25px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.pizzaLiActive {
+    background-color: white;
+    flex: 1 1 0%;
+    display: flex;
+    height: 25px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: rgba(6, 5, 50, 0.19) 0px 6px 20px;
+    transition: 0.5s;
+}
+
+.typeDisplay {
+    background-color: #F8F7F5;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.weight {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+@media (max-width:1160px) {
+    .MenuPizza {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width:790px) {
+    .MenuPizza {
+        grid-template-columns: repeat(2, 1fr);
+        
+    }
+}
+
+@media (max-width:500px) {
+    .MenuPizza {
+        grid-template-columns: repeat(1, 1fr);
+        
+    }
+    
+    .pizza {
+        max-width: 80%;
+    }
+}

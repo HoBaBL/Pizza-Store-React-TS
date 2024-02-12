@@ -1,0 +1,122 @@
+[
+    {
+      "id": "1",
+      "title": "Мортаделла с песто",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/11ee8a3878dd949ebe0175e3fc3b1e9b_292x292.webp",
+      "text": "Мортаделла, брынза, моцарелла, соус песто, фирменный томатный соус",
+      "price": [569, 889, 999],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [410, 590, 810]
+    },
+    {
+      "id": "2",
+      "title": "Сырная",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/d9c609f1422247f2b87b6293eb461ff0_292x292.webp",
+      "text": "Моцарелла, сыры чеддер и пармезан, фирменный соус альфредо",
+      "price": [299, 539, 649],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [310, 470, 640]
+    },
+    {
+      "id": "3",
+      "title": "Пепперони фреш",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/27c9bbd0af3a4d1d84a086d9c2f1656d_584x584.webp",
+      "text": "Пикантная пепперони, увеличенная порция моцареллы, томаты, фирменный томатный соус",
+      "price": [299, 539, 649],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [380, 590, 790]
+    },
+    {
+      "id": "4",
+      "title": "Двойной цыпленок",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/ddadb2bd7f2d40459acddbe2f51a2389_292x292.webp",
+      "text": "Цыпленок, моцарелла, фирменный соус альфредо",
+      "price": [409, 619, 749],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [360, 520, 730]
+    },
+    {
+      "id": "5",
+      "title": "Ветчина и сыр",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/cea570842b754c52b786c231c65bd2e2_292x292.webp",
+      "text": "Ветчина, моцарелла, фирменный соус альфредо",
+      "price": [409, 619, 749],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [320, 480, 630]
+    },
+    {
+      "id": "6",
+      "title": "Чоризо фреш",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/02ca2561953b488993878d1f70e359de_292x292.webp",
+      "text": "Острая чоризо, сладкий перец, моцарелла, фирменный томатный соус",
+      "price": [299, 539, 649],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [330, 470, 630]
+    },
+    {
+      "id": "7",
+      "title": "Пицца Жюльен",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/f8bcc0d18f5a4817a720a159f0f8c37c_292x292.webp",
+      "text": "Цыпленок, шампиньоны, ароматный грибной соус, красный лук, чеснок, моцарелла, смесь сыров чеддер и пармезан, фирменный соус альфредо",
+      "price": [519, 789, 949],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [430, 630, 820]
+    },
+    {
+      "id": "8",
+      "title": "Додо Микс",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/85479ab2c41e42408d3609dad068d2ef_292x292.webp",
+      "text": "Бекон, цыпленок, ветчина, сыр блю чиз, сыры чеддер и пармезан, соус песто, кубики брынзы, томаты, красный лук, моцарелла, фирменный соус альфредо, чеснок, итальянские травы",
+      "price": [569, 889, 999],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [440, 640, 900]
+    },
+    {
+      "id": "9",
+      "title": "Песто",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/6046174c06e440299c4e7117a8ecfea4_292x292.webp",
+      "text": "Цыпленок, соус песто, кубики брынзы, томаты, моцарелла, фирменный соус альфредо",
+      "price": [519, 789, 949],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [400, 610, 810]
+    },
+    {
+      "id": "10",
+      "title": "Карбонара",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/2cac8238ae9e42cd95dd00c17146e1fd_292x292.webp",
+      "text": "Цыпленок, соус песто, кубики брынзы, томаты, моцарелла, фирменный соус альфредо",
+      "price": [569, 889, 999],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [410, 590, 800]
+    },
+    {
+      "id": "11",
+      "title": "Мясная",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/18dbb12240b041a191c9dc73c9c1f4ef_292x292.webp",
+      "text": "Цыпленок, соус песто, кубики брынзы, томаты, моцарелла, фирменный соус альфредо",
+      "price": [519, 789, 949],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [390, 590, 820]
+    },
+    {
+      "id": "12",
+      "title": "Гавайская",
+      "imagesPizza": "https://dodopizza-a.akamaihd.net/static/Img/Products/c24bb8e55baa4ca68945459ac6afdf3e_292x292.webp",
+      "text": "Цыпленок, ананасы, моцарелла, фирменный соус альфредо",
+      "price": [469, 709, 879],
+      "tipy": "Традиционное",
+      "size": 30,
+      "weight": [390, 590, 810]
+    }
+  ]
